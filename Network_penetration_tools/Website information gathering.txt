@@ -1,0 +1,11 @@
+ apt install python
+
+$  git clone https://github.com/T4P4N/IP-FY.git
+
+$  ls
+
+$  cd IP-FY
+
+$  pip install requests
+
+$  python ipfy.py -t [Target_Ip_Address]
